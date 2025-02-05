@@ -1,5 +1,14 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋🏻, I'm Prajyot Thorat</h1><br><h3 align="center">A Passionate Programmer</h3><br><br>- 🌱 <b>I’m currently learning Python Technology and Android Development<b><br><br>- 👨🏻‍🎓 Student of Master of Computer Application (MCA)<br><br>
+<h1 align="center">Hi 👋🏻, I'm Prajyot Thorat</h1><br>
+<h3 align="center">A Passionate Full Stack Developer</h3><br><br>
+
+- 🚀 <b>Full Stack Developer | Building Scalable Web Applications</b><br><br>
+- 🎓 <b>Master of Computer Application (MCA) - 2024 Graduate</b><br><br>
+- 🌱 <b>Currently exploring advanced backend development, cloud technologies</b><br><br>
+- 💡 <b>Skilled in Python, Django, JavaScript, MySQL, HTML, CSS, and AWS</b><br><br>
+- 🔭 <b>Working on innovative web projects</b><br><br>
+- 📫 <b>Reach me at prajyotthorat161@gmail.com </b><br><br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajyot3990) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajyotthorat)
